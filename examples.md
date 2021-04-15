@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Examples
-permalink: /examples23/
+permalink: /examples/
 image_sliders:
   - slider1
   - slider2

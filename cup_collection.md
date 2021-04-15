@@ -18,7 +18,7 @@ examples modified
 
 settings for this slider taken from [Ideal-Image-Slider-JS#getting-started](https://github.com/Codeinwp/Ideal-Image-Slider-JS#getting-started)
 
-{% include slider.html selector="slider1" %}
+{% include slider.html selector="2021_04_tener" %}
 
 ## slider 2
 
