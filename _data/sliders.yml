@@ -57,8 +57,7 @@
     height: "'auto'"
     disableNav: true
 
-- selector: 2021_04_tener
-  bullets: true
+- selector: slider3
   images:
     - src: /img/1.jpg
       alt: image one
@@ -66,7 +65,8 @@
       alt: image two
     - src: /img/3.jpg
       alt: image three
+    - src: /img/4.jpg
+      alt: image four
   settings:
-    height: 400
-    maxHeight: 400
-    effect: "'fade'"
+    height: "'auto'"
+    disableNav: true
