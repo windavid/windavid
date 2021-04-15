@@ -11,7 +11,7 @@ image_sliders:
 
 ## Тенерифе 2011
 
-{% include slider.html selector="2021_04_tener" %}
+{% include slider.html selector="slider1" %}
 
 ## Кызыл 20??
 
@@ -19,4 +19,4 @@ image_sliders:
 
 ## Китайский чайник 20??
 
-{% include slider.html selector="slider2" %}
+{% include slider.html selector="slider3" %}
