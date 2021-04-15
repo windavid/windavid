@@ -68,4 +68,5 @@
       alt: image 3
   settings:
     height: 400
+    maxHeight: 400
     effect: "'fade'"
