@@ -11,7 +11,7 @@
       alt: Use data-src-2x for HiDPI devices
     - src: /img/4.jpg
       alt: Links work too
-      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+      href: https://github.com/windavid/windavid
   settings:
     height: 400
     initialHeight:
