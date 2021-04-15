@@ -30,4 +30,4 @@ same images, different settings.
 
 same images, minimal settings, no bullets, no captions, no navigation
 
-{% include slider.html selector="slider1" %}
+{% include slider.html selector="2021_04_tener" %}
