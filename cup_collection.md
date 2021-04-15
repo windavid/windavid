@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Examples
-permalink: /examples/
+title: Коллекция кружек
+permalink: /cup_collection/
 image_sliders:
   - slider1
   - slider2
