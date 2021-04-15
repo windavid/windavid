@@ -56,3 +56,14 @@
   settings:
     height: "'auto'"
     disableNav: true
+
+- selector: 2021_04_tener
+  bullets: true
+  captions: true
+  images:
+    - src: /img/2021_04_tener_1.JPG
+    - data-src: /img/2021_04_tener_2.JPG
+    - data-src: /img/2021_04_tener_3.JPG
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
