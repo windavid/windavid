@@ -60,12 +60,12 @@
 - selector: 2021_04_tener
   bullets: true
   images:
-    - src: /img/2021_04_tener_1.JPG
-      alt: image 1
-    - src: /img/2021_04_tener_2.JPG
-      alt: image 2
-    - src: /img/2021_04_tener_3.JPG
-      alt: image 3
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
   settings:
     height: 400
     maxHeight: 400
