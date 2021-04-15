@@ -6,6 +6,7 @@ image_sliders:
   - slider1
   - slider2
   - slider3
+  - 2021_04_tener
 ---
 
 ## Тенерифе 2011
