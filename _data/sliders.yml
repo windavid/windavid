@@ -59,17 +59,13 @@
 
 - selector: 2021_04_tener
   bullets: true
-  captions: true
   images:
     - src: /img/2021_04_tener_1.JPG
-      title: Balloons!
-      alt: This slider has caption titles
-    - data-src: /img/2021_04_tener_2.JPG
-      title: This slider uses the fade effect
-      alt: Instead of the default slide effect
-    - data-src: /img/2021_04_tener_3.JPG
-      title: This slider uses the fade effect
-      alt: Instead of the default slide effect
+      alt: image 1
+    - src: /img/2021_04_tener_2.JPG
+      alt: image 2
+    - src: /img/2021_04_tener_3.JPG
+      alt: image 3
   settings:
     height: 400
     effect: "'fade'"
