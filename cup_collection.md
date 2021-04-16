@@ -14,20 +14,20 @@ examples modified
 
 [View the slider settings in `_data/sliders.yml`](https://github.com/jekylltools/jekyll-ideal-image-slider-include/blob/gh-pages/_data/sliders.yml)
 
-## slider 1
+## Тенерифе 2013
 
 settings for this slider taken from [Ideal-Image-Slider-JS#getting-started](https://github.com/Codeinwp/Ideal-Image-Slider-JS#getting-started)
 
-{% include slider.html selector="slider3" %}
+{% include slider.html selector="2021_04_tener" %}
 
-## slider 2
+## Кызыл 20??
 
 same images, different settings.
 
-{% include slider.html selector="slider2" %}
+{% include slider.html selector="2021_04_kyzyl" %}
 
-## slider 3
+## Китайский чайник 20??
 
 same images, minimal settings, no bullets, no captions, no navigation
 
-{% include slider.html selector="2021_04_tener" %}
+{% include slider.html selector="2021_04_chtea" %}

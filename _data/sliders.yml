@@ -59,14 +59,41 @@
 
 - selector: 2021_04_tener
   images:
-    - src: /img/1.jpg
+    - src: /img/2021_04_tener_1.jpg
       alt: image one
-    - src: /img/2.jpg
+    - src: /img/2021_04_tener_2.jpg
       alt: image two
-    - src: /img/3.jpg
+    - src: /img/2021_04_tener_3.jpg
       alt: image three
-    - src: /img/4.jpg
+  settings:
+    height: 400
+    maxHeight: 400
+    disableNav: true
+
+- selector: 2021_04_kyzyl
+  images:
+    - src: /img/2021_04_kyzyl_1.jpg
+      alt: image one
+    - src: /img/2021_04_kyzyl_2.jpg
+      alt: image two
+    - src: /img/2021_04_kyzyl_3.jpg
+      alt: image three
+    - src: /img/2021_04_kyzyl_4.jpg
       alt: image four
   settings:
-    height: "'auto'"
+    height: 400
+    maxHeight: 400
+    disableNav: true
+
+- selector: 2021_04_chtea
+  images:
+    - src: /img/2021_04_chtea_1.jpg
+      alt: image one
+    - src: /img/2021_04_chtea_2.jpg
+      alt: image two
+    - src: /img/2021_04_chtea_3.jpg
+      alt: image three
+  settings:
+    height: 400
+    maxHeight: 400
     disableNav: true
