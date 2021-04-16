@@ -18,16 +18,16 @@ examples modified
 
 settings for this slider taken from [Ideal-Image-Slider-JS#getting-started](https://github.com/Codeinwp/Ideal-Image-Slider-JS#getting-started)
 
-{% include slider.html selector="2021_04_tener" %}
+{% include slider.html selector="slider4" %}
 
 ## Кызыл 20??
 
 same images, different settings.
 
-{% include slider.html selector="2021_04_kyzyl" %}
+{% include slider.html selector="slider5" %}
 
 ## Китайский чайник 20??
 
 same images, minimal settings, no bullets, no captions, no navigation
 
-{% include slider.html selector="2021_04_chtea" %}
+{% include slider.html selector="slider6" %}

@@ -57,7 +57,7 @@
     height: "'auto'"
     disableNav: true
 
-- selector: 2021_04_tener
+- selector: slider4
   images:
     - src: /img/2021_04_tener_1.jpg
       alt: image one
@@ -70,7 +70,7 @@
     maxHeight: 400
     disableNav: true
 
-- selector: 2021_04_kyzyl
+- selector: slider5
   images:
     - src: /img/2021_04_kyzyl_1.jpg
       alt: image one
@@ -85,7 +85,7 @@
     maxHeight: 400
     disableNav: true
 
-- selector: 2021_04_chtea
+- selector: slider6
   images:
     - src: /img/2021_04_chtea_1.jpg
       alt: image one
